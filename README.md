@@ -2,7 +2,7 @@
 
 A modern note-taking application built with Vue 3 and Vite. Features a clean, intuitive interface with real-time auto-save functionality.
 
-![Screenshot](assets/Screenshot)
+<img src="assets/Screenshot" alt="Логотип" width="200" />
 ## ✨ Features
 
 - **📝 Create & Edit Notes** - Write and edit notes with a clean, distraction-free interface
